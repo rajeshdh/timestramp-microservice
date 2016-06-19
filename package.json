@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/rajeshdh/timestramp-microservice/issues"
   },
-  "homepage": "https://github.com/rajeshdh/timestramp-microservice#readme"
+  "homepage": "https://github.com/rajeshdh/timestramp-microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "moment": "^2.13.0"
+  }
 }
